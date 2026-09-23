@@ -1,5 +1,4 @@
-# 🧠 Machine Learning Classification Algorithms Suite
-
+# 🧠 ML-Classification-Algorithms
 
 
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
